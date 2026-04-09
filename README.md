@@ -1,6 +1,6 @@
 # Robotic Arm — Mechatronic Design Project
 
-An ongoing Arduino-based robotics project for Intro to Mechatronic Design at Florida Gulf Coast University. The system autonomously detects, identifies, and sorts balls by color using a robotic arm.
+An ongoing Arduino-based robotics project for Mechatronic Design at Florida Gulf Coast University. The system autonomously detects, identifies, and sorts balls by color using a robotic arm.
 
 ## Project Status
 
