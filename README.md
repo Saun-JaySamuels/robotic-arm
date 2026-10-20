@@ -4,7 +4,7 @@ An ongoing Arduino-based robotics project for Mechatronic Design at Florida Gulf
 
 ## Project Status
 
-> Work in progress — new modules being added throughout the semester.
+> Complete, achieved goal.
 
 ## Sketches
 
